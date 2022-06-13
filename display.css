@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Indie+Flower&family=Patrick+Hand&family=Poppins:ital,wght@0,900;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Indie+Flower&family=Kalam:wght@300;400&family=Patrick+Hand&family=Poppins:ital,wght@0,900;1,900&display=swap');
 
-body {
+body { 
     font-family: 'Courier New', Courier, monospace;
     /* background: linear-gradient(to left, #241d22, #434343,#241d1d);   */
     background-image: url("./assets/back.jpg");
