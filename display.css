@@ -7,7 +7,7 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     /* background: linear-gradient(to left, #241d22, #434343,#241d1d);   */
-    background-image: url("https://images.wallpapersden.com/image/download/cool-4k-pattern_bGduZWyUmZqaraWkpJRobWllrWdma2U.jpg");
+    background-image: url("./assets/back.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
