@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,900;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Poppins:ital,wght@0,900;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Patrick+Hand&family=Poppins:ital,wght@0,900;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Indie+Flower&family=Patrick+Hand&family=Poppins:ital,wght@0,900;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Indie+Flower&family=Kalam:wght@300;400&family=Patrick+Hand&family=Poppins:ital,wght@0,900;1,900&display=swap');
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    /* background: linear-gradient(to left, #241d22, #434343,#241d1d);   */
+    background-image: url("https://images.wallpapersden.com/image/download/cool-4k-pattern_bGduZWyUmZqaraWkpJRobWllrWdma2U.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-size: 44px;
+    text-align: center;
+
+}
+
+.chaughadiya-p {
+    font-size: 150px;
+    font-weight: 1000;
+    /* color:crimson; */
+    color: #F24405;
+    display: inline-block;
+    margin: 50px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#div-main:hover .chaughadiya-p {
+    /* background-color: rgb(0, 0, 0); */
+    /* Fallback color */
+    /* background-color: rgba(0, 0, 0.2, 0.5); */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 50px;
+}
+
+#div-main:hover {
+    /* border-left: 10px #F24405 solid; */
+    /* border-top: #404040 20px solid; */
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 5px;
+    padding-top: 0%;
+    border-top-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    transition: 1s;
+}
+
+.rahukaal {
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    /* font-family: 'Fredoka One', cursive; */
+    font-family: 'Kalam', cursive;
+    font-size: 80px;
+    font-weight: 600;
+    /* color: #F27B13; */
+    color: #00DFAE;
+    /* font-family: 'Fredoka One', cursive; */
+    padding-bottom: 10px;
+}
+
+.display {
+    font-family: 'Indie Flower', cursive;
+    font-size: 100px;
+    font-weight: 1000;
+    color: rgb(255, 166, 0);
+    display: inline-block;
+    margin: 0px;
+}
+
+#div-main {
+    /* background: url("https://wallpaperaccess.com/full/2637581.jpg"); */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0.7, 0.5);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 80px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 5px;
+    padding-top: 0%;
+    border: #F24405 solid 3px;
+    border-radius: 60px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 120px;
+    border-bottom: 14px solid;
+    border-left: 5px #F24405 solid;
+    border-top: #404040 14px solid;
+    transition: 1s;
+    -moz-box-shadow:     5px 4px 7px 8px rgba(0, 0, 0.7, 0.8) ;
+    -webkit-box-shadow:  5px 4px 7px 8px rgba(0, 0, 0.7, 0.8);
+    box-shadow:          5px 4px 7px 8px rgba(0, 0, 0.7, 0.8);
+}
